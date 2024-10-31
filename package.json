@@ -2,6 +2,10 @@
   "name": "emailclient",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Palash Das",
+    "github": "PalashCoder"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
